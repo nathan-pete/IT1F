@@ -1,0 +1,9 @@
+*.env
+*.tex
+*.DS_Store
+*.yaml
+*.do
+*.latex
+*.Zone:Identifier
+*.idea
+*.vscode
